@@ -1,4 +1,4 @@
-# DEGO-project_team50
+# DECA-project_team50
 A/B test for Digital Experimentation course – Group 50, TXB
 Benefit Plans Landing Page
 This repository contains the analysis of an A/B test evaluating a redesigned version of the **Benefit Plans landing page**.
